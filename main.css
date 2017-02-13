@@ -1,0 +1,38 @@
+body{
+  background-color: #fafafa;
+  color: #5c5855;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.home {
+  text-align: center;
+}
+.home h1{
+    font-size: 60px;
+}
+
+h1, h2, h3, h5 {
+    color: #444;
+    font-family: Chivo, "Helvetica Neue", Helvetica, Arial, serif;
+    font-weight: 900;
+    line-height: 1.1;
+}
+ul {
+  display: block;
+  width: 900px;
+  margin: auto;
+  list-style-type: none;
+  margin-top: 100px;
+}
+
+
+.project li{
+  width: 280px;
+  float: left;
+}
+.project i{
+  font-size: 60px;
+  color: #149ad4;
+}
+.project p {
+  text-align: justify;
+}

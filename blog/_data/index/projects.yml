@@ -1,0 +1,21 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Jalpc
+  i18n: jalpc
+  gh_user: jarrekk
+  repo: Jalpc
+  img: /static/assets/img/landing/jekyll.png
+  desc: Jalpc is a simple, beautiful and swift theme for Jekyll. It has comprehensive function, it can be easily used and edited. It's adapted for many kinds devices.
+
+- name: LeetCode
+  i18n: leetcode
+  gh_user: kamyu104
+  repo: LeetCode
+  img: /static/assets/img/landing/leetcode.png
+  desc: LeetCode is a website which has many valuable algorithmic questions, this is a project of kamyu104's, I forked it and added more solutions, if you like Python you can find fun from this project.
+
+- name: FamilyCODE Wchat
+  i18n: familycode
+  img: /static/assets/img/landing/familycode.png
+  desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.

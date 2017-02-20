@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Blog | Alexis Danizan"
-baseurl = "http://alexisdanizan.github.io/blog/public/"
+baseurl = "https://alexisdanizan.github.io/blog/public/"
 
 theme = "code-editor"
 

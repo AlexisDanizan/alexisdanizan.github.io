@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Alexis Danizan</title>
-    <link>http://alexisdanizan.github.io/blog/public/index.xml</link>
+    <link>https://alexisdanizan.github.io/blog/public/index.xml</link>
     <description>Recent content on Blog | Alexis Danizan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://alexisdanizan.github.io/blog/public/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alexisdanizan.github.io/blog/public/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

@@ -2,8 +2,8 @@
 
 # Website settings
 title: Blog Alexis Danizan
-description: Jack's blog,use Jekyll and github pages.
-keywords: blog, alexis danizan
+description: Blog personnel de Alexis Danizan.
+keywords: blog, Alexis Danizan, securité, hacking,linux
 baseurl:  /blog # if you have suburl as homepage like '/homepage', please change it to '/homepage'
 url: http://alexisdanizan.github.io/blog  # url should be changed to 'http://www.jack003.com/homepage' as before
 # url: http://127.0.0.1:4000
@@ -11,13 +11,13 @@ img_path: blog/static/assets/img/blog  # url should be changed to '/homepage/sta
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
-  cv: http://cv.jack003.com  # A online CV can be printed as PDF, leave blank if you don't have now
-  email: me@jack003.com  # Leave blank if you don't have now
-  facebook_username: jiakunnj  # Leave blank if you don't have now
-  github_username: jarrekk  # Leave blank if you don't have now
+  name: XorHead  # Be used at blog posts' author.
+  first_name: Alexis  # Be used at index page about me section.
+  last_name: Danizan  # Be used at index page about me section.
+  cv: http://alexisdanizan.fr  # A online CV can be printed as PDF, leave blank if you don't have now
+  email: alexis.danizan[at]gmail[dot]com  # Leave blank if you don't have now
+  #facebook_username:   # Leave blank if you don't have now
+  #github_username:   # Leave blank if you don't have now
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   skill_icon1:
     - name: icon-apache
@@ -28,21 +28,21 @@ author:  # change following line to your infomation.
   desc: Introduce myself will be here.
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
-  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  #name: jalpc
+  #public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
 
 # analytics
 ## google analytics
-ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+#ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
   # id:
 
 ## growingIO
-gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+#gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+#donation: on  # type 'on'/'off' to choice display donation button at post page or not
 
 
 # Build settings

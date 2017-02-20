@@ -1,3 +1,9 @@
-baseurl = "http://alexisdanizan.github.io/blog/"
 languageCode = "en-us"
 title = "Blog | Alexis Danizan"
+baseurl = "http://alexisdanizan.github.io/blog/public/"
+
+theme = "code-editor"
+
+[params]
+    author = "Alexis Danizan"
+    locale = "en-US"
